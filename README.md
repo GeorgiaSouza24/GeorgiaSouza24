@@ -25,11 +25,10 @@ Me chamo Geórgia, sou uma programadora Front-End, em constante aprendizado atua
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
 
-<a href="georgiagonc4lves@outlook.com" title="Entre em contato por e-mail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
 
-<a href="mailto:wesley.giuliano@gmail.com" title="Entre em ctt por e-mail">
+<a href="mailto:georgiagonc4lves@outlook.com" title="Entre em contato por e-mail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a> 
 
